@@ -1,6 +1,14 @@
 # D479-Task-1
 
+Taniti visitor website prototype for WGU D479 Task 1.
 
+## Prototype
+
+The site is deployed with GitLab Pages from the `public/` directory. After the Pages pipeline completes, visit:
+
+`https://ssong32.gitlab.io/d479-task-1/`
+
+The prototype contains separate HTML pages for Home, Things to Do, Lodging, Transportation, Visitor Information, restaurants, and attraction details.
 
 ## Getting started
 
